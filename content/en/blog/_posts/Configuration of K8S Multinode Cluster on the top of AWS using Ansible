@@ -1,0 +1,7 @@
+---
+layout: blog
+title: "Configuration of K8S Multinode Cluster on the top of AWS using Ansible"
+date: 2021-02-10
+slug: k8s-multinode-cluster-on-aws-using-ansibe
+---
+
